@@ -1,0 +1,1 @@
+配合仓库[sockjs-client-tool](https://github.com/MrRohwei/sockjs-client-tool)测试WebSocket，clone到本地后直接启动当前服务即可，端口默认8080。[sockjs-client-tool](https://github.com/MrRohwei/sockjs-client-tool)服务通过命令`npm i`安装依赖，然后`npm run dev`启动服务。
